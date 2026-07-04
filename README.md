@@ -1,6 +1,6 @@
 # IntelliShift Hackathon – End-to-End Business Intelligence Platform
 
-## all Files in master brancj
+## all Files in master branch
 ## Overview
 
 IntelliShift is an end-to-end Business Intelligence solution developed during the IntelliShift Hackathon.
